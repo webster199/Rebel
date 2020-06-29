@@ -1,0 +1,1 @@
+@AjeyaMrao Expected download speed: 100Mbps. Expected upload: 100Mbps. This is what I am actually getting. 
